@@ -1,0 +1,49 @@
+
+nav{
+	display:block;
+	position:absolute;
+	right:0;
+}
+
+a:link{
+	font-family: arial, sans-serif;
+	text-decoration: none;
+	color: black;
+}
+
+a:visited{
+	font-family: arial, sans-serif;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	font-family: arial, sans-serif;
+	text-decoration: underline;
+	color: black;
+}
+
+a:active{
+	font-family: arial, sans-serif;
+	text-decoration: none;
+	color: black;
+}
+
+img{
+	display:block;
+	position: relative;
+	margin: auto;
+	top: 100px;
+	
+}
+
+input {
+	display:block;
+	position:relative;
+	top:150px;
+	margin:auto;
+	height:30px;
+	width:500px;
+	background: #fff;
+	border:1px solid #cdcdcd;	
+}
